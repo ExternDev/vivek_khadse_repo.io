@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "engineering-document-management-system",
+      "name": "Engineering Document Management System",
+      "createdAt": "2023-06-01T00:00:00Z",
+      "url": "https://kinsmengroup.com/",
+      "description": "Developed a robust background processor and job scheduling system using .NET Core Azure Functions and Service Bus, improving document processing efficiency by 35%. Integrated SignalR for real-time notifications and used Fluent UI with React.js for a better user interface.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": ".NET Core",
+          "iconifyClass": "simple-icons:dotnet"
+        },
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "logos-azure"
+        }
+      ]
+    },
+    {
+      "id": "revenue-lifecycle-management-system",
+      "name": "Revenue Lifecycle Management System",
+      "createdAt": "2022-06-01T00:00:00Z",
+      "url": "https://conga.com/",
+      "description": "Developed unit test cases and packaged services as NuGet packages for microservices, improving system scalability and reliability. Built reusable services for better development efficiency.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": ".NET Core",
+          "iconifyClass": "simple-icons:dotnet"
+        },
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "logos-azure"
+        }
+      ]
+    },
+    {
+      "id": "aurangabad-mahanagar-palika-scanner",
+      "name": "India's First Scanner-Based Info for Monuments",
+      "createdAt": "2022-01-01T00:00:00Z",
+      "url": "https://amc.aurangabadmahapalika.org/smart-scan/scanner",
+      "description": "Developed a scanner-based information system for monuments in Sambhajinagar, enabling smart access to historical data for the Aurangabad Mahanagar Palika (AMC Gov).",
+      "isFork": false,
+      "languages": [
+        {
+          "name": ".NET Core",
+          "iconifyClass": "simple-icons:dotnet"
+        },
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "logos-azure"
+        }
+      ]
+    }
+  ]
+}
